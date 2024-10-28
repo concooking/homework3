@@ -21,6 +21,7 @@ public class Main {
         } else {
             System.out.println("Установите обычную версию приложения для Android по ссылке");
         }
+
         // Задача 3
         System.out.println("Задача 3");
         int year = 2021;
