@@ -31,10 +31,8 @@ public class Main {
         }
         // Задача 4
         System.out.println("Задача 4");
-
         int deliveryDistance = 95;
         int deliveryTimes;
-
         if(deliveryDistance <=20){
         deliveryTimes =1;
         }else if(deliveryDistance >20&&deliveryDistance <=60){
@@ -51,7 +49,6 @@ public class Main {
         }
         // Задача 5
         System.out.println("Задача 5");
-
         int monthNumber = 5;
         switch(monthNumber){
         case 1:
